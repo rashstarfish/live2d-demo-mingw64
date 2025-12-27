@@ -1,0 +1,15 @@
+{
+    "version": 8,
+    "configurePresets": [
+        {
+            "name": "mingw64",
+            "displayName": "GCC 15.2.0 x86_64-w64-mingw32",
+            "generator": "MinGW Makefiles",
+            "binaryDir": "${sourceDir}/build",
+            "cacheVariables": {
+                "CMAKE_EXPORT_COMPILE_COMMANDS":"ON",
+                "CMAKE_BUILD_TYPE": ""
+            }
+        }
+    ]
+}
