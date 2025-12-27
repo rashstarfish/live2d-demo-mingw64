@@ -1,4 +1,4 @@
-## INTRO
+## Intro
 I am using vscode+cmake instead of MSVC.
 I have just copied the Cubism's official demo [CubismNativeSamples](https://github.com/Live2D/CubismNativeSamples) and wrote the `CMakeLists.txt` to run it in a `cmake` + `mingw64` environment.
 
